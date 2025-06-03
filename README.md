@@ -9,9 +9,8 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/tanvir-anjum111/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://github.com/tanviranjum1"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  &nbsp;
-  <a href="https://tanviranjum.dev"><img src="https://img.shields.io/badge/-Portfolio-007ACC?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://tanviranjum-dev-git-master-tanviranjum1s-projects.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-007ACC?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/></a>
+  
 </p>
 
 ---
