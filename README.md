@@ -29,7 +29,6 @@ I'm passionate about leveraging technology to solve complex problems and am alwa
 | :---------------------------------------- | :------------------------------------------ |
 | 🎓 **Academic Excellence** | CGPA 3.93 / 4.00 — Top 1%                   |
 | 📈 **System Reliability Enhancement** | −70% downtime after .NET refactor           |
-| 🛠 **Product Scalability & Reach** | ERP platform used by **600+ organizations** |
 | 🤖 **Research Impact** | 97% COVID-19 X-ray detection accuracy     |
 | 👨‍💻 **Algorithmic Problem Solving** | 700+ problems solved (e.g., LeetCode, Codeforces) |
 
@@ -43,9 +42,8 @@ I'm passionate about leveraging technology to solve complex problems and am alwa
 <br/>
 🛠️ *ASP.NET MVC · C# · SQL Server *
 
-* Scaled a multi-tenant ERP platform from inception to **600+ paying customers**, supporting thousands of daily active users.
+* Scaled a multi-tenant ERP platform, supporting hundreds of daily active users.
 * Refactored critical backend services and optimized database queries, significantly slashing application downtime by **70%**.
-* Implemented comprehensive Role-Based Access Control (RBAC) and OAuth 2.0 to meet ISO-27001 security standards.
 
 **Undergraduate Researcher — Leading University**
 <br/>
@@ -53,8 +51,7 @@ I'm passionate about leveraging technology to solve complex problems and am alwa
 <br/>
 🛠️ *Python · TensorFlow · Keras · Grad-CA*
 
-* Led and first-authored a research paper achieving **97% accuracy** on the COVIDx dataset for COVID-19 detection from X-ray images.
-* Developed and implemented interpretable saliency maps using Grad-CAM for enhanced model explainability, aiding radiologists in result verification.
+* First-authored a research paper achieving **97% accuracy** on the COVIDx dataset for COVID-19 detection from X-ray images.
 
 ---
 
@@ -66,9 +63,6 @@ I'm passionate about leveraging technology to solve complex problems and am alwa
 | **Developers Connect** (Social Network for Developers)    | MERN Stack · GitHub API · JWT             | Social networking platform that auto-imports a user’s GitHub portfolio. |
 | **MapsEye** (Emergency Location Tracker)                  | Android (Java) · Firebase                 | Real-time SOS location tracking and broadcasting for emergencies.   |
 
-*Each project repository contains a README with a demo (e.g., GIF) and deployment instructions.*
-
----
 
 ## 🛠️ Core Skills
 
@@ -118,6 +112,6 @@ I'm passionate about leveraging technology to solve complex problems and am alwa
 
 ## 📬 Let’s Connect
 
-I’m currently pursuing **M.S. (CS/AI)** programs and actively seeking **AI-focused Software Engineering roles** for **Fall 2025**.
+I’m currently pursuing **M.S. (AI)** programs and actively seeking **AI-focused Software Engineering roles** for **Fall 2025**.
 <br/>
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tanvir-anjum111/) or [Email](mailto:anz.tanvir@gmail.com). Let's discuss how we can collaborate or build something impactful together!
