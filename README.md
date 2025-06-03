@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/your-photo.jpg" width="180" height="180" style="border-radius:50%; object-fit:cover;" alt="Tanvir Anjum profile photo"/>
-</p>
-
 <h1 align="center">Tanvir Anjum</h1>
 
 <p align="center">
@@ -46,7 +42,7 @@ I'm passionate about leveraging technology to solve complex problems and am alwa
 <br/>
 🗓️ *Mar 2022 → Mar 2025*
 <br/>
-🛠️ *ASP.NET MVC · C# · SQL Server · Docker*
+🛠️ *ASP.NET MVC · C# · SQL Server *
 
 * Scaled a multi-tenant ERP platform from inception to **600+ paying customers**, supporting thousands of daily active users.
 * Refactored critical backend services and optimized database queries, significantly slashing application downtime by **70%**.
@@ -56,7 +52,7 @@ I'm passionate about leveraging technology to solve complex problems and am alwa
 <br/>
 🗓️ *Published at IEEE 12th CCWC, Las Vegas ’22*
 <br/>
-🛠️ *Python · TensorFlow · Keras · Grad-CAM*
+🛠️ *Python · TensorFlow · Keras · Grad-CA*
 
 * Led and first-authored a research paper achieving **97% accuracy** on the COVIDx dataset for COVID-19 detection from X-ray images.
 * Developed and implemented interpretable saliency maps using Grad-CAM for enhanced model explainability, aiding radiologists in result verification.
@@ -83,7 +79,7 @@ I'm passionate about leveraging technology to solve complex problems and am alwa
 | **Web & Cloud** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit–learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
-| **Dev Practices** | Agile/Scrum · TDD · REST APIs · GraphQL · CI/CD · Microservices |
+| **Dev Practices** | Agile/Scrum  · REST APIs  |
 
 ---
 
