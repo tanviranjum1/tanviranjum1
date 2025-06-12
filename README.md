@@ -17,7 +17,7 @@
 
 ## 👤 About Me
 
-Full-stack engineer with 3 years of experience shipping **multi-tenant ERP** platforms and contributing to first-author **computer-vision research** (IEEE CCWC ’22). I specialize in building **robust, interpretable ML systems** and the cloud infrastructure that deploys them at scale.
+Full-stack engineer with 2 years of experience shipping **multi-tenant ERP** platforms. 
 
 I'm passionate about leveraging technology to solve complex problems and am always eager to learn and collaborate on innovative projects.
 
@@ -38,7 +38,7 @@ I'm passionate about leveraging technology to solve complex problems and am alwa
 
 **Software Engineer — C&E IT Solutions**
 <br/>
-🗓️ *Mar 2022 → Mar 2025*
+🗓️ *Mar 2022 → Mar 2024*
 <br/>
 🛠️ *ASP.NET MVC · C# · SQL Server *
 
