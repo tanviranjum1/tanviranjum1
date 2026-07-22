@@ -10,21 +10,7 @@
   </p>
 </div>
 
-<div align="center">
-  <!-- Fixed Portfolio Link Below -->
-  <a href="https://tanviranjum-dev-1jzz.vercel.app](https://tanviranjum-dev-1jzz-o023tflx6-tanviranjum1s-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:anz.tanvir@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tanvir-anjum111/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/tanviranjum1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+<div align="center"> <a href="https://tanviranjum-dev-1jzz.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio"/> </a> <a href="mailto:anz.tanvir@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/> </a> <a href="https://www.linkedin.com/in/tanvir-anjum111/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/> </a> <a href="https://github.com/tanviranjum1"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/> </a> </div>
 
 ---
 
