@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="center">
-    <em>🚀 Full-Stack Software Engineer with 4+ years building ERP &amp; SaaS platforms</em>
+    <em>🚀 Full-Stack Software Engineer building ERP &amp; SaaS platforms</em>
     <br/>
     <em>🎯 Passionate about AI/ML, Cloud Architecture &amp; Problem Solving</em>
   </p>
@@ -28,16 +28,15 @@
 
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-I'm a **Full-Stack Software Engineer** with a passion for building robust, scalable applications and exploring the frontiers of AI/ML. With **4+ years** of experience in enterprise software and SaaS development, I specialize in:
+I'm a **Full-Stack Software Engineer** currently building SaaS products (hotel management, car wash/parking platforms) at **SoftMariyam**, with a background scaling multi-tenant ERP systems and IEEE-published research in medical imaging AI.
 
-- 🏗️ **Multi-tenant ERP & SaaS Systems** — Built and scaled hospital, academic, distributor, hotel, and car-wash/parking platforms serving hundreds of daily users
-- 🤖 **AI/ML Research** — First-authored IEEE-published research achieving **97.3% accuracy** in medical image analysis
-- 🚀 **Cloud-Native Applications** — Full-stack expertise across React/Node and ASP.NET/Azure ecosystems
-- 💡 **Problem Solving** — 800+ algorithmic challenges solved; active ACM programming community member
+- 🏗️ **Multi-tenant ERP & SaaS Systems** — hospital, academic, distributor, hotel, and parking platforms
+- 🤖 **AI/ML Research** — first-authored IEEE paper, 97.3% accuracy in medical image analysis
+- 💡 **Problem Solving** — 800+ algorithmic challenges solved; ACM programming community member
 
 ---
 
-## 🏆 Key Achievements
+## 📊 GitHub Stats
 
 <div align="center">
   <table>
@@ -50,61 +49,6 @@ I'm a **Full-Stack Software Engineer** with a passion for building robust, scala
       </td>
     </tr>
   </table>
-</div>
-
-### 📊 Performance Metrics
-
-| Metric | Achievement | Impact |
-|---|---|---|
-| 💼 **Professional Experience** | 4+ Years | ERP, SaaS & Full-Stack Delivery |
-| 🎓 **Academic Excellence** | CGPA 3.93/4.00 | Top 1% of Class |
-| 📈 **System Reliability** | 70% Downtime Reduction | Enhanced User Experience |
-| 🤖 **AI Research** | 97.3% Detection Accuracy | IEEE Conference Publication |
-| 💻 **Problem Solving** | 800+ Problems Solved | Strong Algorithmic Foundation |
-
----
-
-## 💼 Professional Experience
-
-### **Software Engineer** @ SoftMariyam
-*`April 2025 – Present`*
-
-- 🏨 **Hotel Software** — Cloud-based Hotel & Restaurant Management System; enhanced reservations, restaurant POS, banquet management, and integrated accounting modules
-- 🧼 **WashPark** — Multi-tenant SaaS platform for car wash & parking operations; built wash-order processing, POS sales, parking management, centralized billing, reporting, and role-based access control
-- 🔍 **OMR R&D** — Contributed to an Optical Mark Recognition solution, handling complex logic and data processing
-- 🚀 **Technology Stack**: React, Node.js, MongoDB
-
-### **Software Engineer** @ C&E IT Solution
-*`March 2022 – March 2025`*
-
-- 🏗️ **Scaled Multi-tenant ERP Platforms** (Hospital, Academic, Inventory, Distributor Management) supporting hundreds of daily active users
-- 🔧 **Backend Optimization** — Refactored critical services, reduced downtime by **70%**
-- 💰 **HR–Payroll System** — Led feature development for 600+ users, including RESTful APIs for mobile data interaction
-- 🗄️ **Additional Delivery** — Distributor Management web app, a payment interface for school software, and REST APIs for a banking application
-- 🔐 Implemented role-based access control and drove code refinement, bug resolution, and data scripting
-- 🚀 **Technology Stack**: ASP.NET MVC, C#, Entity Framework, SQL Server, Azure DevOps
-
-### **Undergraduate Researcher** @ Leading University
-*`Published at IEEE 12th CCWC, Las Vegas 2022`*
-
-- 🧠 **AI/ML Research** — First-authored comparative evaluation of ResNet, DenseNet, and custom CNNs on the public COVIDx dataset for COVID-19 detection from chest X-rays
-- 📊 **Model Performance** — Built preprocessing & augmentation pipelines achieving **97.3% classification accuracy**
-- 🛠️ **Tech Stack**: Python, TensorFlow, Keras, Scikit-learn, Computer Vision
-
----
-
-## 📄 Publications
-
-**Anjum, T., et al. (2022).** *Performance Analysis of Convolutional Neural Network Architectures for the Identification of COVID-19 from Chest X-ray Images.* In *2022 12th Annual Computing and Communication Workshop and Conference (CCWC)*, IEEE.
-
----
-
-## 🔬 Research Interests
-
-<div align="center">
-
-`Trustworthy, Explainable & Robust AI` · `Multimodal Deep Learning for Medical Imaging & Biomedicine` · `Clinical & Biomedical NLP` · `Human-Centered AI Safety & Ethics`
-
 </div>
 
 ---
@@ -147,76 +91,29 @@ I'm a **Full-Stack Software Engineer** with a passion for building robust, scala
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge" alt="C++"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" alt="Java"/>
-</div>
-
-### Frontend & Web Technologies
-<div align="center">
+  <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
-
-### Backend & Cloud
-<div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</div>
-
-### Databases & ORMs
-<div align="center">
+  <br/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</div>
-
-### AI/ML & Data Science
-<div align="center">
+  <br/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
 </div>
-
-### DevOps & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</div>
-
----
-
-## 📚 Education & Certifications
-
-### **Bachelor of Science in Computer Science & Engineering**
-*`Leading University, Sylhet • Class of 2022`*
-
-- 🏆 **CGPA**: 3.93/4.00 (Top 1% of Class)
-- 🎯 **Focus Areas**: Artificial Intelligence, Neural Networks, Data Structures & Algorithms, Database Design
-- 📖 **Relevant Coursework**: Object-Oriented Programming, Web Technologies, Software Engineering, Operating Systems
-
-### **Professional Certifications**
-- 🎓 **Full-Stack Web Development (MERN Stack)** — Udemy
-- 🏆 **Presenter Certification** — IEEE 12th International Conference on Computing, Networking and Communications (CCWC 2022)
 
 ---
 
@@ -232,20 +129,17 @@ I'm a **Full-Stack Software Engineer** with a passion for building robust, scala
 
 ---
 
-## 🎯 Current Focus & Goals
+## 🎯 Currently
 
-- 🎓 **Pursuing graduate study in Artificial Intelligence** — GRE and IELTS completed
-- 🔍 **Open to AI-focused Software Engineering roles** at innovative companies
-- 🚀 **Building next-generation AI applications** with modern cloud technologies
-- 📚 **Contributing to open-source projects** in AI/ML and full-stack development
+- 🎓 Pursuing graduate study in Artificial Intelligence
+- 🔍 Open to AI-focused Software Engineering roles
+- 📚 Contributing to open-source projects in AI/ML and full-stack development
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect
 
 <div align="center">
-  <p>I'm always excited to connect with fellow developers, researchers, and tech enthusiasts!</p>
-
   <a href="https://www.linkedin.com/in/tanvir-anjum111/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
   </a>
