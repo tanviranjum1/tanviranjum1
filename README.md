@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+I'm+Tanvir+Anjum;Software+%26+AI+Engineer;Turning+Research+Into+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=28&amp;pause=1000&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Hello%2C+I'm+Tanvir+Anjum;Software+%26+AI+Engineer;Turning+Research+Into+Products" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,6 +11,9 @@
 </div>
 
 <div align="center">
+  <a href="https://tanviranjum-dev-1jzz.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:anz.tanvir@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -42,10 +45,10 @@ I'm a **Full-Stack Software Engineer** currently building SaaS products (hotel m
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=tanviranjum1&show_icons=true&hide_title=false&theme=radical&border_color=3B82F6&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B" height="180" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=tanviranjum1&amp;show_icons=true&amp;hide_title=false&amp;theme=radical&amp;border_color=3B82F6&amp;bg_color=0D1117&amp;title_color=3B82F6&amp;icon_color=F59E0B" height="180" alt="GitHub Stats"/>
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanviranjum1&theme=radical&border=3B82F6&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak Stats"/>
+        <img src="https://streak-stats.demolab.com/?user=tanviranjum1&amp;theme=radical&amp;border=3B82F6&amp;background=0D1117&amp;date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak Stats"/>
       </td>
     </tr>
   </table>
@@ -120,11 +123,11 @@ I'm a **Full-Stack Software Engineer** currently building SaaS products (hotel m
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanviranjum1&layout=compact&theme=radical&langs_count=8&border_color=3B82F6&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanviranjum1&amp;layout=compact&amp;theme=radical&amp;langs_count=8&amp;border_color=3B82F6&amp;bg_color=0D1117&amp;title_color=3B82F6&amp;icon_color=F59E0B" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanviranjum1&bg_color=0D1117&color=3B82F6&line=3B82F6&point=3B82F6&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanviranjum1&amp;bg_color=0D1117&amp;color=3B82F6&amp;line=3B82F6&amp;point=3B82F6&amp;area=true&amp;hide_border=true&amp;custom_title=GitHub%20Contribution%20Graph" alt="GitHub Contribution Graph"/>
 </div>
 
 ---
@@ -151,7 +154,7 @@ I'm a **Full-Stack Software Engineer** currently building SaaS products (hotel m
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanviranjum1&style=flat-square&color=3B82F6" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=tanviranjum1&amp;style=flat-square&amp;color=3B82F6" alt="Profile Views"/>
 
   <p><em>Thanks for visiting! Feel free to star ⭐ this repository if you found it helpful.</em></p>
 </div>
