@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="286" viewBox="0 0 1120 286" role="img" aria-labelledby="title desc">
+  <title id="title">Tanvir Anjum — Software Engineer</title>
+  <desc id="desc">A dark navy banner with a subtle animated flow between interface, application and database nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101b2d"/><stop offset="1" stop-color="#08101c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#7e9bb9" stroke-opacity=".09"/>
+    </pattern>
+    <radialGradient id="halo"><stop offset="0" stop-color="#38bdf8" stop-opacity=".14"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="1118" height="284" rx="20" fill="url(#bg)" stroke="#35445b"/>
+  <rect x="2" y="2" width="1116" height="282" rx="19" fill="url(#grid)"/>
+  <ellipse cx="878" cy="142" rx="230" ry="130" fill="url(#halo)"/>
+  <rect x="48" y="43" width="38" height="4" rx="2" fill="url(#accent)"/>
+  <text x="48" y="73" font-family="monospace" font-size="14" letter-spacing="2.2" fill="#8dddcf">SOFTWARE ENGINEERING / BANGLADESH</text>
+  <text x="44" y="132" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.4" fill="#f1f5f9">Tanvir Anjum</text>
+  <text x="48" y="170" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#b8c8db">Full-stack development · ERP applications</text>
+  <text x="48" y="199" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#91a7c0">Research background in deep learning</text>
+  <rect x="48" y="231" width="270" height="30" rx="15" fill="#1b3441" stroke="#315766"/>
+  <circle cx="65" cy="246" r="4" fill="#5eead4"/>
+  <text x="79" y="251" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" fill="#bdece5">Building practical software systems</text>
+  <g transform="translate(665 53)">
+    <text x="190" y="13" fill="#91a7c0" font-family="monospace" font-size="12" letter-spacing="1.6" text-anchor="middle">APPLICATION WORKFLOW</text>
+    <path d="M 112 92 H 139 M 241 92 H 268" stroke="#5b7c98" stroke-width="2" stroke-dasharray="4 5" fill="none"/>
+    <g fill="#152538" stroke="#42617c">
+      <rect x="8" y="45" width="104" height="96" rx="14"/>
+      <rect x="139" y="45" width="102" height="96" rx="14"/>
+      <rect x="268" y="45" width="104" height="96" rx="14"/>
+    </g>
+    <g stroke="#7dd3fc" stroke-width="2" stroke-linejoin="round" fill="none">
+      <rect x="32" y="66" width="56" height="35" rx="5"/><path d="M32 76H88 M43 89H59 M65 89H77"/>
+      <path d="M174 73 L163 84 L174 95 M206 73 L217 84 L206 95 M195 69 L185 99"/>
+      <ellipse cx="320" cy="70" rx="24" ry="9"/><path d="M296 70V99 Q320 118 344 99 V70 M296 84 Q320 101 344 84"/>
+    </g>
+    <g fill="#dbeafe" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle">
+      <text x="60" y="126">Interface</text><text x="190" y="126">Logic &amp; API</text><text x="320" y="126">Data</text>
+    </g>
+    <circle cx="126" cy="92" r="4" fill="#5eead4">
+      <animate attributeName="cx" values="114;137;114" dur="3.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".35;1;.35" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="255" cy="92" r="4" fill="#60a5fa">
+      <animate attributeName="cx" values="243;266;243" dur="3.2s" begin=".8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="190" y="178" font-family="monospace" font-size="12" text-anchor="middle" fill="#91a7c0">Requirements → implementation → testing</text>
+  </g>
+</svg>
