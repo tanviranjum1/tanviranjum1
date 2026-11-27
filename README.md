@@ -1,110 +1,120 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/76862416?v=4" width="120" alt="Tanvir Anjum's GitHub avatar" />
-  <h1>Hi, I'm Tanvir Anjum 👋</h1>
-  <h3>Software Engineer · Applied AI & Research Enthusiast</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+Useful+Full-Stack+Applications;Designing+ERP+%26+Business+Software;Exploring+NLP%2C+LLMs+%26+Trustworthy+AI" alt="Animated introduction" />
+  <img src="assets/profile-banner.svg" width="100%" alt="Tanvir Anjum — Software Engineer. Full-stack development, ERP applications and deep learning research." />
+  <br />
+  <img src="https://avatars.githubusercontent.com/u/76862416?v=4" width="96" alt="Tanvir Anjum's GitHub profile picture" />
   <p>
-    <a href="https://www.linkedin.com/in/tanvir-anjum111/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:anz.tanvir@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/tanviranjum1"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/tanvir-anjum111/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
+    <a href="mailto:anz.tanvir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-334155?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
+    <a href="https://github.com/tanviranjum1?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
   </p>
 </div>
 
----
+## About me
 
-## About Me
+I'm a software engineer based in Bangladesh, with experience developing full-stack web applications and business management systems. Much of my work involves understanding business requirements and translating them into working features — from database models and backend logic to user interfaces and reports.
 
-I'm a software engineer with a **BSc in Computer Science & Engineering from Leading University**. I enjoy turning requirements into useful software: designing databases, building APIs, implementing business logic, and creating clear, practical user interfaces.
+My academic background is in Computer Science and Engineering, with research experience in deep learning for medical imaging. I'm interested in applying AI to practical problems and currently developing my understanding of NLP, transformers and large language models.
 
-My professional work has included **ERP and business applications** for healthcare, education, distribution, and hospitality. I have experience across the full-stack development process, from database design and optimisation to client discussions and application delivery.
+## Professional experience
 
-Alongside software engineering, I have a research background in medical imaging and a growing interest in trustworthy AI.
+### Software Engineer — C&E IT Solutions
 
-## Education & Research
+- Worked on enterprise applications for HR and payroll, hospitals, academic institutions, inventory and distribution.
+- Implemented business workflows, validation rules, role-based access and approval processes.
+- Developed database queries, reports and Excel import/export features.
+- Maintained existing applications, investigated bugs and implemented fixes.
 
-- **BSc in Computer Science & Engineering** — Leading University, 2022
-- **CGPA:** 3.93 / 4.00
-- **Research publication:** First author of the IEEE conference paper *“Performance Analysis of 2D CNN Model in Detection of COVID-19 from Chest X-ray Images.”* The work was presented at an IEEE conference in Las Vegas.
+**Technologies:** C#, ASP.NET MVC, Entity Framework, SQL Server, Razor, JavaScript and jQuery.
 
-### Research Interests
+### Senior Software Engineer — SoftMariyam
 
-- Natural Language Processing (NLP) and Large Language Models (LLMs)
-- Trustworthy, explainable, and secure AI
-- AI-generated content detection and misinformation analysis
-- Cyberbullying detection and human-centred AI
-- Deep learning for medical imaging and healthcare applications
+- Worked on a cloud-based hotel and restaurant management application.
+- Contributed to modules for reservations, check-in/check-out, restaurant operations and accounting.
+- Worked across the frontend, backend and database to implement and maintain application features.
 
-## What I Work On
+**Technologies:** React, Node.js and MongoDB.
 
-- **Business software:** ERP systems, management platforms, and reusable application modules
-- **Backend engineering:** REST APIs, authentication, business logic, database design, and optimisation
-- **Full-stack development:** Responsive web applications and end-to-end product development
-- **Applied AI:** Exploring practical AI applications alongside my software engineering work
+## Engineering focus
 
-## Technologies I've Worked With
+| Area | What I work on |
+|---|---|
+| Full-stack development | Web interfaces, backend APIs, database integration and application features |
+| Business workflows | ERP modules, form validation, permissions, approvals and operational rules |
+| Data & reporting | Relational and document databases, queries, reports and spreadsheet import/export |
+| Application maintenance | Debugging, feature improvements, testing and deployment preparation |
+| Personal projects | Building and refining management applications for education, healthcare, libraries and retail |
 
-<div align="center">
-  <p><strong>Languages</strong></p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-
-  <p><strong>Frontend</strong></p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-
-  <p><strong>Backend & Databases</strong></p>
-  <img src="https://img.shields.io/badge/.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MVC" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-
-  <p><strong>Tools</strong></p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</div>
-
-## Selected Public Projects
-
-These are selected examples from my public repositories.
-
-| Project | What it does | Repository |
-|---|---|---|
-| **ShopApp** | Electronics e-commerce application with a React/Redux frontend and Node.js, Express, and MongoDB backend. | [View project](https://github.com/tanviranjum1/ShopApp) |
-| **DevConnect** | Developer-focused social platform with profiles, posts, a developer directory, and notifications. | [View project](https://github.com/tanviranjum1/developersApp) |
-| **Share Places** | Full-stack application for sharing places, uploading images, and exploring locations on interactive maps. | [View project](https://github.com/tanviranjum1/Share-Places) |
-
-## GitHub Overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanviranjum1&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" height="175" alt="GitHub statistics" />
-  <img src="https://streak-stats.demolab.com?user=tanviranjum1&hide_border=true&theme=transparent" height="175" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanviranjum1&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-</div>
-
----
-
-## Let's Connect
-
-I'm always glad to connect with people working in software engineering, research, and applied AI.
+## Technologies I've used
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanvir-anjum111/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:anz.tanvir@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/tanviranjum1">GitHub</a>
+  <img alt="C sharp" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
+  <br />
+  <img alt="ASP.NET MVC" src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-334155?style=flat-square&amp;logo=express&amp;logoColor=white" />
+  <br />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-A91D22?style=flat-square&amp;logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-237C48?style=flat-square&amp;logo=mongodb&amp;logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" />
+  <br />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0891B2?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" />
 </p>
 
-<div align="center">
-  <sub>Thanks for visiting my profile. Have a great day! ✨</sub>
-</div>
+My professional experience includes .NET and JavaScript-based application development. I've also used newer web technologies and Docker in personal projects and deployment preparation, and Python in my AI learning and research.
+
+## Selected public projects
+
+| Project | Overview |
+|---|---|
+| [**ShopApp**](https://github.com/tanviranjum1/ShopApp) | Full-stack electronics e-commerce application using React, Redux, Node.js and MongoDB. |
+| [**DevConnect**](https://github.com/tanviranjum1/developersApp) | Developer community application featuring profiles, posts and a developer directory. |
+| [**Share Places**](https://github.com/tanviranjum1/Share-Places) | Application for sharing places, images and locations through interactive maps. |
+| [**Doctor Appointment System**](https://github.com/tanviranjum1/Doctor-Appointment-System) | Appointment scheduling application with doctor listings, patient booking and administrative functionality. |
+
+I also work on management applications for schools, hospitals, libraries and retail businesses. Some of these projects are in private repositories and are not linked here.
+
+## Education & research
+
+**BSc in Computer Science and Engineering** · Leading University, Bangladesh · 2022  
+**CGPA: 3.93 / 4.00**
+
+My undergraduate research focused on using convolutional neural networks to detect COVID-19 from chest X-ray images. I was the first author of a paper presented at the IEEE CCWC 2022 conference.
+
+### Currently learning and exploring
+
+- Natural language processing, transformers and large language models
+- Trustworthy AI, AI security and detection of AI-generated content
+- Practical AI applications for education, healthcare and safer online interactions
+- Improving software architecture, testing and deployment practices
+
+These are areas I'm developing further, rather than claims of specialist expertise.
+
+## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/tanviranjum1">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanviranjum1&amp;theme=github-compact&amp;hide_border=true&amp;area=true" alt="GitHub contribution activity graph" />
+  </a>
+</p>
+
+<p align="center"><sub>Some professional and personal work is maintained in private repositories.</sub></p>
+
+---
+
+<p align="center">
+  <strong>Thanks for visiting.</strong><br />
+  I'm happy to connect with people interested in software engineering and applied AI.
+  <br /><br />
+  <a href="https://www.linkedin.com/in/tanvir-anjum111/">LinkedIn</a> ·
+  <a href="mailto:anz.tanvir@gmail.com">Email</a> ·
+  <a href="https://github.com/tanviranjum1?tab=repositories">Repositories</a>
+</p>
